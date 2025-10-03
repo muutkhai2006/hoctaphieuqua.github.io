@@ -52,7 +52,7 @@
 <body>
   <main class="wrap">
     <header>
-      <h1>Học tập hiệu quả cho sinh viên — Bản tối giản</h1>
+      <h1Mẹo Học Tập Hiệu Quả Cho Sinh Viên</h1>
       <p class="lead">Tập trung vào điều cốt lõi: mục tiêu rõ ràng, thời gian tập trung, ôn luyện đúng nhịp, ghi chú gọn gàng, giữ sức khỏe.</p>
     </header>
 
