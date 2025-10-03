@@ -3,7 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Cách học tập hiệu quả (phiên bản tối giản)</title>
+  <title>Mẹo Học Tập Hiệu Quả Cho Sinh Viên
+  </title>
   <style>
     :root{
       --bg:#ffffff;
